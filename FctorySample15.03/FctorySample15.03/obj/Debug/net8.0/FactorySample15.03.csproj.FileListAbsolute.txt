@@ -1,0 +1,14 @@
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.GeneratedMSBuildEditorConfig.editorconfig
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.AssemblyInfoInputs.cache
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.AssemblyInfo.cs
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.csproj.CoreCompileInputs.cache
+H:\FctorySample15.03\FctorySample15.03\bin\Debug\net8.0\FactorySample15.03.exe
+H:\FctorySample15.03\FctorySample15.03\bin\Debug\net8.0\FactorySample15.03.deps.json
+H:\FctorySample15.03\FctorySample15.03\bin\Debug\net8.0\FactorySample15.03.runtimeconfig.json
+H:\FctorySample15.03\FctorySample15.03\bin\Debug\net8.0\FactorySample15.03.dll
+H:\FctorySample15.03\FctorySample15.03\bin\Debug\net8.0\FactorySample15.03.pdb
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.dll
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\refint\FactorySample15.03.dll
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.pdb
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\FactorySample15.03.genruntimeconfig.cache
+H:\FctorySample15.03\FctorySample15.03\obj\Debug\net8.0\ref\FactorySample15.03.dll
