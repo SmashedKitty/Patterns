@@ -1,0 +1,14 @@
+H:\SampleObserver\SampleObserver\bin\Debug\net8.0\SampleObserver.exe
+H:\SampleObserver\SampleObserver\bin\Debug\net8.0\SampleObserver.deps.json
+H:\SampleObserver\SampleObserver\bin\Debug\net8.0\SampleObserver.runtimeconfig.json
+H:\SampleObserver\SampleObserver\bin\Debug\net8.0\SampleObserver.dll
+H:\SampleObserver\SampleObserver\bin\Debug\net8.0\SampleObserver.pdb
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.GeneratedMSBuildEditorConfig.editorconfig
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.AssemblyInfoInputs.cache
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.AssemblyInfo.cs
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.csproj.CoreCompileInputs.cache
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.dll
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\refint\SampleObserver.dll
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.pdb
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\SampleObserver.genruntimeconfig.cache
+H:\SampleObserver\SampleObserver\obj\Debug\net8.0\ref\SampleObserver.dll
